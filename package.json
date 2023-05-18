@@ -1,0 +1,26 @@
+{
+  "name": "com.liteninja.vektor",
+  "version": "0.1.0",
+  "displayName": "LiteNinja Vektor",
+  "description": "Create mesmerizing 2D meshes that pay homage to 80s vector graphics in Unity3D!",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/sponticelli/LiteNinja-Vektor/blob/main/README.md",
+  "changelogUrl": "https://github.com/sponticelli/LiteNinja-Vektor/blob/main/changelog.md",
+  "licensesUrl": "https://github.com/sponticelli/LiteNinja-Vektor/blob/main/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+    "utility",
+    "mesh",
+    "mesh manipulation",
+    "vector graphics",
+    "wireframe",
+    "procedural generation",
+    "utils"
+  ],
+  "author": {
+    "name": "Sandro Ponticelli",
+    "email": "sandro.ponticelli@gmail.com",
+    "url": "https://github.com/sponticelli"
+  }
+}
